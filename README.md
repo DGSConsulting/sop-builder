@@ -6,11 +6,6 @@ A simple, customizable SOP builder designed to help consultants, teams, and oper
 
 ---
 
-## 🔗 Live Preview (Google Docs)
-
-👉 [View the SOP Template on Google Docs](https://docs.google.com/document/d/your-doc-id-here)
-
-*(Optional: Replace with your link, or remove this section.)*
 
 ---
 
