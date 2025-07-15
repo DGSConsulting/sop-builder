@@ -15,7 +15,7 @@ A simple, customizable SOP builder designed to help consultants, teams, and oper
 |------|-------------|
 | `_SOP Builder.xlsx` | Excel version of the SOP builder with input prompts |
 | `sop-template.md` | A clean Markdown version for GitHub projects or wikis |
-| `images/preview.png` | Screenshot of the Excel tool layout *(optional)* |
+
 
 ---
 
